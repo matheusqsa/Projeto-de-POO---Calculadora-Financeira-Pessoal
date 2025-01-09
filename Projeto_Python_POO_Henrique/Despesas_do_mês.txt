@@ -1,0 +1,12 @@
+Receitas:
+Salário: 1518.0
+Investimentos: 150.0
+
+Despesas:
+Luz: 100.0
+Água: 30.0
+Internet: 100.0
+Mercado: 500.0
+Aluguel: 450.0
+Transporte: 200.0
+Lazer: 200.0
